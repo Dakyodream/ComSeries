@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to ComSeries
 
-You can use the [editor on GitHub](https://github.com/Dakyodream/ComSeries/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+L’objectif de ce programme est de fournir une interface permettant la collecte des données d’un port de communication (UART). Il intègre une coloration des lignes en présence des mots clés :
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	- [INFO] ==> bleu
+	- [WARNING] ==> orange
+	- [ERROR] ==> rouge
+  
+De plus, il permet l’horodatage des transmissions reçut et l’export des données en .rtf, txt, csv. Il intègre aussi la fonction « mettre au premier plan » permettant de conserver la fenêtre au-dessus des autres applications. 
 
-### Markdown
+Bien que ce programme dispose de nombreux bugs non géré (application instable), il n’est plus développé, car remplacé par un autre projet en cours qui reprend le fond de cette solution. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dakyodream/ComSeries/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
